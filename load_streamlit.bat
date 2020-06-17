@@ -1,0 +1,1 @@
+streamlit run %~dp0\Streamlit_side.py
